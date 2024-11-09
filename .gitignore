@@ -1,0 +1,12 @@
+# Ignore all files ending with .tmp
+*.tmp
+
+# Ignore the "build" directory
+build/
+venv/
+
+# Ignore the "logs" directory and all files within it
+logs/
+
+# Ignore the file "config.json" in the current directory
+config.json
