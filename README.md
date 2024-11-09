@@ -1,6 +1,5 @@
 ---
 
-```markdown
 # Chatbot Project
 
 This project is a Python-based chatbot that uses a transformer model from Hugging Face’s `transformers` library, combined with a Flask API to serve responses. The chatbot is capable of generating conversational responses based on user input prompts and can be easily integrated with a front-end interface.
@@ -233,5 +232,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The open-source community for contributing to libraries like Flask and PyTorch.
 
 ---
-
-```
